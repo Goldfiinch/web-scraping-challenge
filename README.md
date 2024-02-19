@@ -22,6 +22,8 @@ Part 2: Scrape and Analyze Mars Weather Data (60 points)
     - How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. (10 points)
     - The DataFrame was exported into a CSV file. (5 points)
 
-Sources: 
+Sources:
+
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.idxmin.html
+
 https://www.geeksforgeeks.org/select-row-with-maximum-and-minimum-value-in-pandas-dataframe/
